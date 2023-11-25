@@ -16,10 +16,12 @@ public class userdef {
         Numbers.add(elements.nextInt()); // to store value in ArrayList
     }
 
+    System.out.println("Out-Put using get function ");
     for(int i = 0; i < 5; i++){
         System.out.print(Numbers.get(i) + " "); // i is index not similar syntax to what we do in array ie list[i] is invalid here
+        
     }
-    
+    System.out.println("Out-Put in normal print statement:");
     System.out.print(Numbers);
     }
     
