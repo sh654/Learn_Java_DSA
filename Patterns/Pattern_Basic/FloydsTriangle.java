@@ -1,3 +1,4 @@
+package Pattern_Basic;
 import java.util.Scanner;
 
 public class FloydsTriangle {

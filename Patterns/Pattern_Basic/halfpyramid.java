@@ -1,3 +1,4 @@
+package Pattern_Basic;
 import java.util.Scanner;
 
 //Logic of half pyramid is initially row no = total column 
